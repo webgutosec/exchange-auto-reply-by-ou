@@ -1,6 +1,8 @@
 # Exchange Auto Reply by OU (PowerShell)
 
-Script simples em PowerShell para configurar **respostas automáticas (Out of Office)** em massa no Exchange Online, com base em usuários organizados por OU no Active Directory.
+## 🇧🇷 Script simples em PowerShell para configurar **respostas automáticas (Out of Office)** em massa no Exchange Online, com base em usuários organizados por OU no Active Directory.
+
+## 🇺🇸 Simple PowerShell script to configure automatic replies (Out of Office) in Exchange Online, based on users organized by Organizational Units (OU) in Active Directory.
 
 ---
 
